@@ -1,0 +1,8 @@
+[package]
+name = "stdin-stdout-deadlock-test"
+version = "0.1.0"
+authors = ["Ted Mielczarek <ted@mielczarek.org>"]
+
+[dependencies]
+assert_cmd = "0.9"
+predicates = "0.9.0"
